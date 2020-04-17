@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "TlYotkgDvQJBRK5N+AGt8EcLBfeMX9NQO8EJ6PrW8n4EIRsbIYEhs6mzDzEkCJD00HHX/rrM0ys5JdiKLu2wmw==",
+  "success": true,
+  "projectFilePath": "/media/giovanni/5E3C36BF3C3691CF/Projeto/github mastergig/ECDiffieHellman Bouncy Castle/ECDiffieHellman Bouncy Castle.csproj",
+  "expectedPackageFiles": [
+    "/home/giovanni/.nuget/packages/bouncycastle/1.8.5/bouncycastle.1.8.5.nupkg.sha512",
+    "/home/giovanni/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/giovanni/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "/home/giovanni/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "/home/giovanni/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.0.3/microsoft.netcore.app.host.linux-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'BouncyCastle 1.8.5' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v3.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "BouncyCastle",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    }
+  ]
+}

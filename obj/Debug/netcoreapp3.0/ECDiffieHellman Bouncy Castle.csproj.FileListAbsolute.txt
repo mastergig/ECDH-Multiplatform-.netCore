@@ -1,0 +1,16 @@
+/media/giovanni/5E3C36BF3C3691CF/Projeto/github mastergig/ECDiffieHellman Bouncy Castle/bin/Debug/netcoreapp3.0/ECDiffieHellman Bouncy Castle
+/media/giovanni/5E3C36BF3C3691CF/Projeto/github mastergig/ECDiffieHellman Bouncy Castle/bin/Debug/netcoreapp3.0/ECDiffieHellman Bouncy Castle.deps.json
+/media/giovanni/5E3C36BF3C3691CF/Projeto/github mastergig/ECDiffieHellman Bouncy Castle/bin/Debug/netcoreapp3.0/ECDiffieHellman Bouncy Castle.runtimeconfig.json
+/media/giovanni/5E3C36BF3C3691CF/Projeto/github mastergig/ECDiffieHellman Bouncy Castle/bin/Debug/netcoreapp3.0/ECDiffieHellman Bouncy Castle.runtimeconfig.dev.json
+/media/giovanni/5E3C36BF3C3691CF/Projeto/github mastergig/ECDiffieHellman Bouncy Castle/bin/Debug/netcoreapp3.0/ECDiffieHellman Bouncy Castle.dll
+/media/giovanni/5E3C36BF3C3691CF/Projeto/github mastergig/ECDiffieHellman Bouncy Castle/bin/Debug/netcoreapp3.0/ECDiffieHellman Bouncy Castle.pdb
+/media/giovanni/5E3C36BF3C3691CF/Projeto/github mastergig/ECDiffieHellman Bouncy Castle/bin/Debug/netcoreapp3.0/BouncyCastle.Crypto.dll
+/media/giovanni/5E3C36BF3C3691CF/Projeto/github mastergig/ECDiffieHellman Bouncy Castle/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/media/giovanni/5E3C36BF3C3691CF/Projeto/github mastergig/ECDiffieHellman Bouncy Castle/obj/Debug/netcoreapp3.0/ECDiffieHellman Bouncy Castle.csprojAssemblyReference.cache
+/media/giovanni/5E3C36BF3C3691CF/Projeto/github mastergig/ECDiffieHellman Bouncy Castle/obj/Debug/netcoreapp3.0/ECDiffieHellman Bouncy Castle.csproj.CoreCompileInputs.cache
+/media/giovanni/5E3C36BF3C3691CF/Projeto/github mastergig/ECDiffieHellman Bouncy Castle/obj/Debug/netcoreapp3.0/ECDiffieHellman Bouncy Castle.AssemblyInfoInputs.cache
+/media/giovanni/5E3C36BF3C3691CF/Projeto/github mastergig/ECDiffieHellman Bouncy Castle/obj/Debug/netcoreapp3.0/ECDiffieHellman Bouncy Castle.AssemblyInfo.cs
+/media/giovanni/5E3C36BF3C3691CF/Projeto/github mastergig/ECDiffieHellman Bouncy Castle/obj/Debug/netcoreapp3.0/ECDiffieHellman Bouncy Castle.csproj.CopyComplete
+/media/giovanni/5E3C36BF3C3691CF/Projeto/github mastergig/ECDiffieHellman Bouncy Castle/obj/Debug/netcoreapp3.0/ECDiffieHellman Bouncy Castle.dll
+/media/giovanni/5E3C36BF3C3691CF/Projeto/github mastergig/ECDiffieHellman Bouncy Castle/obj/Debug/netcoreapp3.0/ECDiffieHellman Bouncy Castle.pdb
+/media/giovanni/5E3C36BF3C3691CF/Projeto/github mastergig/ECDiffieHellman Bouncy Castle/obj/Debug/netcoreapp3.0/ECDiffieHellman Bouncy Castle.genruntimeconfig.cache
