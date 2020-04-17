@@ -17,9 +17,9 @@ namespace ECDiffieHellman_Bouncy_Castle.Business
 {
     public static class BouncyCastleKey
     {
-        public static KeyObject NewKey()
+        public static Keys NewKey()
         {
-            KeyObject ret = new KeyObject();
+            Keys ret = new Keys();
 
             var gen = new ECKeyPairGenerator("ECDH");
             var secureRandom = new SecureRandom();

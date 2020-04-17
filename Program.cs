@@ -12,13 +12,13 @@ namespace ECDiffieHellman_Bouncy_Castle
             Console.WriteLine("New Keys");
             Console.WriteLine(JsonConvert.SerializeObject(BouncyCastleKey.NewKey()));
             
-            KeyObject Key1 = new KeyObject();
+            Keys Key1 = new Keys();
             Key1.publicKey = "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE2JLvbHUxcJd89STdRC3d7gxOzsljFoV/54xCcw+Ryxhdjmd/pSygAY1onHtg3TNgqR3t88sAIGntH++ZdizUwg==";
             Key1.privateKey = "MHcCAQEEICoJknGiV3SsXUV+Wr6FlapccpAoOfCr974bLJbN1aJDoAoGCCqGSM49AwEHoUQDQgAE2JLvbHUxcJd89STdRC3d7gxOzsljFoV/54xCcw+Ryxhdjmd/pSygAY1onHtg3TNgqR3t88sAIGntH++ZdizUwg==";
             Console.WriteLine("Key 1");
             Console.WriteLine(JsonConvert.SerializeObject(Key1));
             
-            KeyObject Key2 = new KeyObject();
+            Keys Key2 = new Keys();
             Key2.publicKey = "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAExhucYVWbJdBtAi8Nf7QGBCe0KvhRSxPWkrPJbD9E+VAClahaJkuih+m4UUq5RXqycp1kFQ9qj+uuz8ppEU536g==";
             Key2.privateKey = "MHcCAQEEIJKkttPNNVqO3OD0XM0ieV9QnahApL4jYCVP4i2CRjuOoAoGCCqGSM49AwEHoUQDQgAExhucYVWbJdBtAi8Nf7QGBCe0KvhRSxPWkrPJbD9E+VAClahaJkuih+m4UUq5RXqycp1kFQ9qj+uuz8ppEU536g==";
             Console.WriteLine("Key 2");
